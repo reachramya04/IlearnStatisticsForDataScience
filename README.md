@@ -1,4 +1,4 @@
 
 # IlearnStatisticsForDataScience
 
-A markdown-based project to document concepts in Statistics for DataScience
+A markdown-based project to document concepts in [Statistics for DataScience](tableOfContents.md)
