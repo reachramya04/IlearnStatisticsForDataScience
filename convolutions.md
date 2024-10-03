@@ -66,3 +66,5 @@ pdf_sum = np.convolve(norm.pdf(x), norm.pdf(x), mode='same')
 plt.plot(x, pdf_sum)
 plt.title("Convolution of Two Normal Distributions")
 plt.show()
+
+[Back to Table Of Contents](tableOfContents.md)

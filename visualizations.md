@@ -54,3 +54,5 @@ The **Exponential(1)** distribution is widely used in probability, especially fo
 
 - The PDF of the sum of independent random variables is calculated using convolution.
 - Visualizing the maximum of random variables requires calculating the CDF and then differentiating to get the PDF.
+
+[Back to Table Of Contents](tableOfContents.md)

@@ -42,3 +42,5 @@ When visualizing the sum of independent random variables, the resulting PDF is o
 
 - For sums of random variables, expect wider distributions compared to individual variables.
 - Triangular distributions often appear for sums of uniform variables.
+
+[Back to Table Of Contents](tableOfContents.md)
